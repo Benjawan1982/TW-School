@@ -98,6 +98,7 @@ public class MainActivity extends AppCompatActivity {
                     }   //if
 
 
+
                 }   //for
                 if (statusABoolean) {
                     Toast.makeText(context, "No" + myUserString + "In Database",
