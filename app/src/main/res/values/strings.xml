@@ -2,5 +2,6 @@
     <string name="app_name">Easy Takfa </string>
 
     <string name="signup">สมัครสมาชิก</string>
+    <string name="title_activity_student_service">Map</string>
 
 </resources>
