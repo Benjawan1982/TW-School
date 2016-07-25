@@ -42,7 +42,8 @@
             android:label="@string/title_activity_student_service" />
         <activity
             android:name=".EditStudent"
-            android:label="@string/title_activity_edit_student"></activity>
+            android:label="@string/title_activity_edit_student" />
+        <activity android:name=".TeacherService"></activity>
     </application>
 
 </manifest>
