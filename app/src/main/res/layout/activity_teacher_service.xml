@@ -16,5 +16,6 @@
         android:text="Scan QRcode"
         android:id="@+id/button7"
         android:layout_centerInParent="true"
-        android:textSize="60sp" />
+        android:textSize="60sp"
+        android:onClick="clickScanQRcode" />
 </RelativeLayout>
