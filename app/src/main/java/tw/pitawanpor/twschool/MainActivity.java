@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
                         case  1:
                             //Student
 
-                            if (Integer.parseInt(loginString[5])==0) {
+                            if (Double.parseDouble(loginString[5])==0) {
                                 //Non Setup position Home
                                 Intent intent = new Intent(MainActivity.this, EditStudent.class);
                                 intent.putExtra("Login", loginString);
