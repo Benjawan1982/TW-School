@@ -3,5 +3,6 @@
 
     <string name="signup">สมัครสมาชิก</string>
     <string name="title_activity_student_service">Map</string>
+    <string name="title_activity_edit_student">Map</string>
 
 </resources>

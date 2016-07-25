@@ -39,7 +39,10 @@
 
         <activity
             android:name=".StudentService"
-            android:label="@string/title_activity_student_service"></activity>
+            android:label="@string/title_activity_student_service" />
+        <activity
+            android:name=".EditStudent"
+            android:label="@string/title_activity_edit_student"></activity>
     </application>
 
 </manifest>
